@@ -1,14 +1,6 @@
 # Summary
 
-* [Micro:bit](README.md)
-* [Manual de Programación micro:bit](manual_de_programacion_microbit.md)
-* [Sensor de temperaturaReto 4. Termómetro digital ](sensor_de_temperaturareto_4_termometro_digital.md)
-* [Sensor de luminosidad](sensor_de_luminosidad.md)
-* [Pulsadores](pulsadores.md)
-* [Acelerómetro](acelerometro.md)
-* [Brújula](brujula.md)
-* [Radio](radio.md)
-* [Pines de entrada y salida](pines_de_entrada_y_salida.md)
+### Uno
 * [1.- ¿Que es la micro:BIT?](1-_que_es_la_microbit.md)
 * [2.- ¿Cómo se programa la micro:BIT?](2-_como_se_programa_la_microbit.md)
 * [3.- Características.](3-_caracteristicas.md)
@@ -17,6 +9,8 @@
   * [B) Cómo crear un programa con MakeCode](4-_makecode_primeros_pasos/b_como_crear_un_programa_con_makecode.md)
   * [C) Cómo descargar un código a la micro:BIT](4-_makecode_primeros_pasos/c_como_descargar_un_codigo_a_la_microbit.md)
   * [D) Cómo ejecutar el código.](4-_makecode_primeros_pasos/d_como_ejecutar_el_codigo.md)
+
+### Programando la micro:bit
 * [Panel LED](panel_led/README.md)
   * [Reto 1. Hola Mundo. ](panel_led/reto_1_hola_mundo.md)
   * [Reto 2. Animando los iconos. ](panel_led/reto_2_animando_los_iconos.md)
