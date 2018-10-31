@@ -1,0 +1,1 @@
+# Sensor de luminosidad {#sensor-de-luminosidad}
