@@ -5,7 +5,7 @@
 3.  Área de programación. Situado a la derecha de la Caja de Herramientas, es la zona donde se arrastran los bloques para crear el programa.
 4.  Barras de Herramientas. Situadas en la parte superior e inferior de la pantalla, ofrece atajos a la diferentes funcionalidades. En la parte superior:
 
-![](images/image37.png)
+![](../images/image37.png)
 
 4.1 Al pulsar sobre micro:bit lleva a la página [https://microbit.org/code/](https://www.google.com/url?q=https://microbit.org/code/&sa=D&ust=1540996277382000) donde encontrar ejemplos de codificación en diferentes lenguajes de programación.
 
@@ -17,11 +17,11 @@
 
 4.3 Compartir. Permite al usuario compartir los códigos creados. En primer lugar se solicita “Publicar el Proyecto”, tras lo que aparece una nueva ventana, que ofrece un enlace y diferentes opciones de código para poder insertar en una página web.
 
-![](images/image36.png)
+![](../images/image36.png)
 
 4.4 Permite intercambiar entre la visualización mediante bloques o ver el código escrito en JavaScript.
 
-![](images/image39.png)
+![](../images/image39.png)
 
 4.5 En el extremo derecho de la Barra de Herramientas se encuentran las secciones de Ayuda, Configuración, acceso a la página principal de MakeCode y en naranja la sección primeros pasos, que ofrece un tutorial de uso.
 
@@ -33,10 +33,10 @@ En la barra inferior aparecen los siguientes atajos:
 
 4.8 Pulsando sobre el icono del disquete, permite asignar un nombre y descargar el programa al disco duro.
 
-![](images/image38.png)
+![](../images/image38.png)
 
 4.9 Las flechas permiten deshacer y rehacer los pasos de codificación.
 
 4.10 En el extremo derecho inferior aparece el icono “+” que aumenta el zoom del área de programación y el icono  “-” que disminuye el zoom.
 
-![](images/image42.png)
+![](../images/image42.png)

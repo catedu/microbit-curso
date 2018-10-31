@@ -16,7 +16,7 @@ Agregar el bloque pausa ms (100) localizado en la categoría Básico.
 
 Repetir los dos bloques anteriores, pero seleccionando el icono “corazón pequeño”.
 
-![](images/image45.png)
+![](../images/image45.png)
 
 De forma inmediata se visualiza en el simulador un corazón que simula latir.
 

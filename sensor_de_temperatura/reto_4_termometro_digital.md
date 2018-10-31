@@ -12,19 +12,19 @@ Mostrar en el panel LED la temperatura detectada por el sensor de temperatura in
 
 Se propone iniciar el programa usando el evento “para siempre”. Añadir el bloque, localizado en la categoría Básico, mostrar número. Este bloque muestra en la pantalla LED el número introducido, desplazándose si es mayor de 1 cifra.
 
-![](images/image22.png)
+![](../images/image22.png)
 
 Sustituir el número “0” por el valor obtenido del sensor de temperatura. Este bloque se localiza en la categoría Entrada. 
 
-![](images/image23.png)
+![](../images/image23.png)
 
 A continuación se borra la pantalla y se introduce una pausa de 1000 ms. Quedando el programa de la siguiente forma:
 
-![](images/image24.png)
+![](../images/image24.png)
 
 En el simulador aparecerá una barra vertical que permite modificar la temperatura, siendo la temperatura marcada la mostrada en el panel LED.
 
-![](images/image25.png)
+![](../images/image25.png)
 
 ### Propuesta. {#propuesta}
 
@@ -42,19 +42,19 @@ Mostrar en el panel LED de la micor:BIT un icono con forma de copo de nieve cuan
 
 Para iniciar el programa, se propone usar el evento para siempre. Posteriormente se debe añadir el operador lógico si … entonces situado en la sección Lógica. Este bloque verifica si es verdad que se cumple una condición, si es así, ejecuta las instrucciones introducidas.
 
-![](images/image26.png)
+![](../images/image26.png)
 
 Para comprobar si la temperatura está por debajo de los 3º centígrados se usará el operador que devuelve verdadero siempre que 3 sea mayor que el valor reportado por el sensor de temperatura. El bloque se localiza en la categoría Lógica.
 
-![](images/image27.png)
+![](../images/image27.png)
 
 Para mostrar un icono con forma de copo de nieve se usará el bloque mostrar LED, también se debe añadir el bloque borrar la pantalla para que no se quede encendido el panel LED cuando suba la temperatura de 3º centígrados
 
-![](images/image28.png)
+![](../images/image28.png)
 
 Una vez terminado el código, aparecerá el símbolo de hielo, cuando la temperatura sea menor de 3º centígrados.
 
-![](images/image29.png)
+![](../images/image29.png)
 
 ### Propuesta. {#propuesta-0}
 
@@ -74,13 +74,13 @@ En este reto se incorpora un altavoz como actuador externo. Se conectará uno de
 
 Para iniciar el programa se usará el bloque “para siempre”. Dentro se situará el condición “si entonces”. La condición a verificar será: si la temperatura es mayor de 7 grados.
 
-![](images/image30.png)
+![](../images/image30.png)
 
 Si el valor es verdadero entonces se reproducirá un tono de aviso.
 
 También se muestra la temperatura medida.
 
-![](images/image31.png)
+![](../images/image31.png)
 
 En el simulador se puede variar la temperatura para comprobar el correcto funcionamiento del programa.
 
