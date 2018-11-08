@@ -1,6 +1,4 @@
-# Los LEDs de la placa micro:bit también pueden actuar como entrada haciendo que detecten la luz ambiente. {#los-leds-de-la-placa-micro-bit-tambi-n-pueden-actuar-como-entrada-haciendo-que-detecten-la-luz-ambiente}
-
-Reto 7\. Interruptor crepuscular.
+## Reto 7. Interruptor crepuscular.
 
 Cuando la intensidad de la luz cae por debajo de un nivel de iluminación predeterminado y ajustado con anterioridad, el interruptor crepuscular enciende la iluminación. Por el contrario, si la intensidad de la luz es mayor que el nivel prefijado, los interruptores apagan la iluminación.
 
