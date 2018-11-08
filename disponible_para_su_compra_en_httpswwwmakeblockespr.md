@@ -1,4 +1,5 @@
-José Francisco Muñoz Fernández (Almería, 1968). Arquitecto superior, desde que cayó en sus manos un ordenador quedó fascinado por esta ciencia digital. La tecnología catalizó su innato espíritu investigador e innovador y le llevó a integrarla en todas las facetas de su vida formativa y laboral.
+##Sobre el autor
+**José Francisco Muñoz Fernández** (Almería, 1968). Arquitecto superior, desde que cayó en sus manos un ordenador quedó fascinado por esta ciencia digital. La tecnología catalizó su innato espíritu investigador e innovador y le llevó a integrarla en todas las facetas de su vida formativa y laboral.
 
 Tras años ejerciendo como arquitecto, decide dar más protagonismo a sus otras dos pasiones, la tecnología y la educación, comenzando a ejercer como profesor de robótica.
 
