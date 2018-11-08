@@ -1,0 +1,19 @@
+{
+    "plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer"],
+    "language": "es",
+    "variables": {
+        "title": "Micro:bit",
+        "authors": [
+            "José Francisco Muñoz Fernández"
+        ],
+        "collaborators": [
+            { "name": "_________", "edited": "_____________" }
+        ]
+    },
+    "pluginsConfig": {
+        "localized-footer": {
+            "hline": true,
+            "filename": "./FOOTER.md"
+        }
+    }
+}
