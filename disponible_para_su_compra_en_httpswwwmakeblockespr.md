@@ -6,13 +6,13 @@ Esta experiencia docente le sirve para comprobar el gran potencial que tiene la 
 
 ![C:\Users\CHEMA\Desktop\José Francisco Muñoz.png](images/image7.png)
 
-~ Otros libros del autor ~
-Iniciación a la Robótica Educativa con mBot de Makeblock” {#iniciaci-n-a-la-rob-tica-educativa-con-mbot-de-makeblock}
-Disponible para su compra en: [http://microes.org/](https://www.google.com/url?q=http://microes.org/&sa=D&ust=1540996277436000) {#disponible-para-su-compra-en-http-microes-org}
+## Otros libros del autor
+**Iniciación a la Robótica Educativa con mBot de Makeblock**
+Disponible para su compra en: [http://microes.org/](https://www.google.com/url?q=http://microes.org/&sa=D&ust=1540996277436000) 
 
 ![libro-robotica-educativa-50-proyectos-con-microbit-mesa.jpg](images/image9.jpg)
 
-~ ¿Quieres participar en esta guía? ~ 
+## ¿Quieres participar en esta guía? 
 
 En Microes.org creamos guías didácticas como la que tienes en tus manos para ayudar a los profesores y usuarios a sacar el máximo partido a micro:bit.
 

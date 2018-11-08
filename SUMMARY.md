@@ -47,5 +47,4 @@
 ## Créditos
 
 * [Sobre el autor](disponible_para_su_compra_en_httpswwwmakeblockespr.md)
-* [Disponible para su compra en: http://microes.org/](disponible_para_su_compra_en_httpmicroesorg.md)
 
