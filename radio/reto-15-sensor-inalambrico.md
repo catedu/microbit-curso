@@ -20,7 +20,7 @@ micro:BIT emisora:
 
 Tras establecer el grupo de emisión en 1 y poner la potencia de emisión al máximo, se enviará el valor de la temperatura mediante el bloque radio send number.
 
-![](images/image3.png)
+![](../images/image3.png)
 
 micro:BIT receptora:
 
@@ -28,7 +28,7 @@ La cadena enviada se guarda en la micro:BIT receptora en una variable que por de
 
 El código de la tarjeta receptora quedaría de la siguiente forma:
 
-![](images/image4.png)
+![](../images/image4.png)
 
 ### Propuesta. {#propuesta}
 
