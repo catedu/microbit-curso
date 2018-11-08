@@ -14,14 +14,14 @@
 
 ## Programando la micro:bit
 * [PROGRAMANDO LA MICRO:BIT](programando-la-microbit.md)
-* [Panel LED](panel_led/README.md)
+* [5 Panel LED](panel_led/README.md)
   * [Reto 1. Hola Mundo. ](panel_led/reto_1_hola_mundo.md)
   * [Reto 2. Animando los iconos. ](panel_led/reto_2_animando_los_iconos.md)
   * [Reto 3. Diseñando iconos. ](panel_led/reto_3_disenando_iconos.md)
-* [Sensor de temperatura](sensor_de_temperatura/README.md)
+* [6 Sensor de temperatura](sensor_de_temperatura/README.md)
   * [Reto 4. Termómetro digital.  ](sensor_de_temperatura/reto_4_termometro_digital.md)
-* [Sensor de luminosidad](sensor_de_luminosidad.md)
-* [Los LEDs de la placa micro:bit también pueden actuar como entrada haciendo que detecten la luz ambiente.](los_leds_de_la_placa_microbit_tambien_pueden_actua.md)
+* [7 Sensor de luminosidad](sensor_de_luminosidad.md)
+* [8 Los LEDs de la placa micro:bit también pueden actuar como entrada haciendo que detecten la luz ambiente.](los_leds_de_la_placa_microbit_tambien_pueden_actua.md)
 * [Pulsadores](pulsadores.md)
 * [Acelerómetro](acelerometro.md)
 * [El acelerómetro mide la aceleración de tu micro:bit. Se activa cuando tu placa se mueve y también puede detectar otras acciones como agitar, girar y hasta soltar tu micro:bit en caída libre!](el_acelerometro_mide_la_aceleracion_de_tu_microbit.md)
