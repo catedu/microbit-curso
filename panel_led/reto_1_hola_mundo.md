@@ -1,4 +1,4 @@
-## Reto 1\. Hola Mundo. {#reto-1-hola-mundo}
+## Reto 1 Hola Mundo. {#reto-1-hola-mundo}
 
 Cuando se aprende a programar, se llama “Hola Mundo” al primer programa que se crea. Este código imprime el texto «¡Hola Mundo!» en un dispositivo de visualización.
 

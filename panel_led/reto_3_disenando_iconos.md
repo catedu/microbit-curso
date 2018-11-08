@@ -1,10 +1,10 @@
-## Reto 3\. Diseñando iconos. {#reto-3-dise-ando-iconos}
+## Reto 3 Diseñando iconos. {#reto-3-dise-ando-iconos}
 
 MakeCode permite diseñar de forma gráfica los iconos a mostrar en el display LED. Para este menester dispone de un bloque específico situado en la categoría Básico. El bloque se llama “mostrar LEDs” y permite al usuario diseñar sus propios iconos marcando de forma independiente los LEDs que se quieren iluminar.
 
 ### Objetivo. {#objetivo}
 
-Diseñar un icono con forma de Indalo. Se trata de una figura rupestre encontrado en una cueva de la provincia de Almería y que representa una figura humana con los brazos extendidos y un arco sobre sus manos. Actualmente se considera un símbolo de la provincia de Almería.
+Diseñar un icono con forma de [Indalo](https://es.wikipedia.org/wiki/Indalo). Se trata de una figura rupestre encontrado en una cueva de la provincia de Almería y que representa una figura humana con los brazos extendidos y un arco sobre sus manos. Actualmente se considera un símbolo de la provincia de Almería.
 
 ![](../images/image46.png)
 

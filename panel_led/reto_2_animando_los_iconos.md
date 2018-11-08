@@ -1,4 +1,4 @@
-## Reto 2\. Animando los iconos. {#reto-2-animando-los-iconos}
+## Reto 2 Animando los iconos. {#reto-2-animando-los-iconos}
 
 La animación es una técnica que logra crear sensación de movimiento a imágenes estáticas. Se consigue mediante una secuencia de imágenes ordenadas, que al ser mostradas consecutivamente,  consiguen generar la ilusión visual de movimiento.
 
