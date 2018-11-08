@@ -2,7 +2,7 @@
 
 ## Autoría
 
-* {{ book.author }}
+* José Francisco Muñoz Fernández
 
 ### Colaboradores:
 
