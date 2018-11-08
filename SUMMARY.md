@@ -12,6 +12,7 @@
   * [C\) Cómo descargar un código a la micro:BIT](4-_makecode_primeros_pasos/c_como_descargar_un_codigo_a_la_microbit.md)
   * [D\) Cómo ejecutar el código.](4-_makecode_primeros_pasos/d_como_ejecutar_el_codigo.md)
 * [Grupo Robotica Educativa](grupo-robotica-educativa.md)
+* [Pensamiento computacional](pensamiento-computacional.md)
 
 ## Programando la micro:bit
 
