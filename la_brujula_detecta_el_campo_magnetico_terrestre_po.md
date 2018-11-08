@@ -1,6 +1,4 @@
-# La brújula detecta el campo magnético terrestre por lo que se puede saber en qué dirección está orientada la micro:bit. (Necesita ser calibrada para asegurar un resultado preciso.) {#la-br-jula-detecta-el-campo-magn-tico-terrestre-por-lo-que-se-puede-saber-en-qu-direcci-n-est-orientada-la-micro-bit-necesita-ser-calibrada-para-asegurar-un-resultado-preciso}
-
-Reto 13\. Conocer la orientación
+# Reto 13\. Conocer la orientación
 
 El norte magnético es la dirección que señala la aguja imantada de una brújula, dirección que no coincide con la del Polo Norte geográfico. Se puede conocer la orientación si se conocen los grados de desviación respecto el Norte Magnético.
 
