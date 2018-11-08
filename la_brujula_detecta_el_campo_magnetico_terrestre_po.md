@@ -1,4 +1,4 @@
-# Reto 13\. Conocer la orientación
+# Reto 13 Conocer la orientación
 
 El norte magnético es la dirección que señala la aguja imantada de una brújula, dirección que no coincide con la del Polo Norte geográfico. Se puede conocer la orientación si se conocen los grados de desviación respecto el Norte Magnético.
 

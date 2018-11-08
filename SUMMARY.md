@@ -33,7 +33,7 @@
   * [Reto 11 Dado electrónico.](el_acelerometro_mide_la_aceleracion_de_tu_microbit.md)
   * [Reto 12 Cara o cruz](reto-12-cara-o-cruz.md)
 * [Brújula](brujula.md)
-  * [La brújula detecta el campo magnético terrestre por lo que se puede saber en qué dirección está orientada la micro:bit. \(Necesita ser calibrada para asegurar un resultado preciso.\)](la_brujula_detecta_el_campo_magnetico_terrestre_po.md)
+  * [Reto 13 Conocer la orientación](la_brujula_detecta_el_campo_magnetico_terrestre_po.md)
 * [Radio](radio.md)
 * [Pines de entrada y salida](pines_de_entrada_y_salida.md)
 * [José Francisco Muñoz Fernández \(Almería, 1968\). Arquitecto superior, desde que cayó en sus manos un ordenador quedó fascinado por esta ciencia digital. La tecnología catalizó su innato espíritu investigador e innovador y le llevó a integrarla en todas las facetas de su vida formativa y laboral. ](jose_francisco_munoz_fernandez_almeria,_1968_arqui/README.md)
