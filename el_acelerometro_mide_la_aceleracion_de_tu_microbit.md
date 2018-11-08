@@ -1,5 +1,3 @@
-# El acelerómetro mide la aceleración de tu micro:bit. Se activa cuando tu placa se mueve y también puede detectar otras acciones como agitar, girar y hasta soltar tu micro:bit en caída libre! {#el-aceler-metro-mide-la-aceleraci-n-de-tu-micro-bit-se-activa-cuando-tu-placa-se-mueve-y-tambi-n-puede-detectar-otras-acciones-como-agitar-girar-y-hasta-soltar-tu-micro-bit-en-ca-da-libre}
-
 Reto 11\. Dado electrónico.
 
 Un dado es un objeto cúbico usado en juegos de azar. En las caras del cubo aparecen puntos que representan distintos números.
