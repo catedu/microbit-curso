@@ -8,7 +8,7 @@ La versión online es accesible desde este enlace:
 
 La versión offline se puede descargar de este enlace: [http://kittenbot.cc/bbs/topic/3/microbit-makecode-offline-version](https://www.google.com/url?q=http://kittenbot.cc/bbs/topic/3/microbit-makecode-offline-version&sa=D&ust=1540996277377000)
 
-![](../images/image34.png)
+![](/images/image34.png)
 
 Además la micro:Bit se puede programar con JavaScript, Pyton, Scratch (añadiendo una extensión) y Tickle (aplicación para iPad), para ver otros editores consulta https://microbit.org/es/code-alternative-editors/.
 ![](https://microbit.org/images/editors.png)
