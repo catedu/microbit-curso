@@ -39,18 +39,13 @@
   * [Reto 15 Sensor inalámbrico.](radio/reto-15-sensor-inalambrico.md)
 * [12 Pines de entrada y salida](pines_de_entrada_y_salida.md)
   * [Reto 16 ¿Hay continuidad?](pines_de_entrada_y_salida/reto-16-hay-continuidad.md)
-  
+
 ## micro:Bit Basic kit
 
 * [Reto 17 Movimiento de un servomotor](reto-17-movimiento-de-un-servomotor.md)
-* [José Francisco Muñoz Fernández \(Almería, 1968\). Arquitecto superior, desde que cayó en sus manos un ordenador quedó fascinado por esta ciencia digital. La tecnología catalizó su innato espíritu investigador e innovador y le llevó a integrarla en todas las facetas de su vida formativa y laboral. ](jose_francisco_munoz_fernandez_almeria,_1968_arqui/README.md)
-  * [Tras años ejerciendo como arquitecto, decide dar más protagonismo a sus otras dos pasiones, la tecnología y la educación, comenzando a ejercer como profesor de robótica. ](jose_francisco_munoz_fernandez_almeria,_1968_arqui/tras_anos_ejerciendo_como_arquitecto,_decide_dar_m.md)
-  * [Esta experiencia docente le sirve para comprobar el gran potencial que tiene la robótica en las aulas y le empuja a querer ayudar a otros docentes en la puesta en práctica rápida y eficaz de la Robótica Educativa en sus centros.](jose_francisco_munoz_fernandez_almeria,_1968_arqui/esta_experiencia_docente_le_sirve_para_comprobar_e.md)
-* [“Iniciación a la Robótica Educativa con mBot de Makeblock”](iniciacion_a_la_robotica_educativa_con_mbot_de_mak.md)
 
-##Créditos
+## Créditos
 
-* [Disponible para su compra en: https://www.makeblock.es/productos/libro-iniciacion-robotica-educativa-mbot/](disponible_para_su_compra_en_httpswwwmakeblockespr.md)
-* [“50 Proyectos con micro:bit”Ernesto Martínez de Carvajal Hedrich  •  Primera Edición \(2018\)  •  229 páginas a color](50_proyectos_con_microbiternesto_martinez_de_carva.md)
+* [Sobre el autor](disponible_para_su_compra_en_httpswwwmakeblockespr.md)
 * [Disponible para su compra en: http://microes.org/](disponible_para_su_compra_en_httpmicroesorg.md)
 

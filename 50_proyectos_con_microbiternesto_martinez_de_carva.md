@@ -1,1 +1,1 @@
-# “50 Proyectos con micro:bit”Ernesto Martínez de Carvajal Hedrich  •  Primera Edición (2018)  •  229 páginas a color {#50-proyectos-con-micro-bit-ernesto-mart-nez-de-carvajal-hedrich-primera-edici-n-2018-229-p-ginas-a-color}
+# 
