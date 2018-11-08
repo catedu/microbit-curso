@@ -44,7 +44,7 @@
 
 * [Reto 17 Movimiento de un servomotor](reto-17-movimiento-de-un-servomotor.md)
 
-## Créditos
+## Para finalizar...
 
 * [Grupo Robotica Educativa](grupo-robotica-educativa.md)
 * [Pensamiento computacional](pensamiento-computacional.md)
