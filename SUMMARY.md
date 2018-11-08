@@ -13,6 +13,7 @@
   * [D\) Cómo ejecutar el código.](4-_makecode_primeros_pasos/d_como_ejecutar_el_codigo.md)
 
 ## Programando la micro:bit
+
 * [PROGRAMANDO LA MICRO:BIT](programando-la-microbit.md)
 * [5 Panel LED](panel_led/README.md)
   * [Reto 1. Hola Mundo. ](panel_led/reto_1_hola_mundo.md)
@@ -20,6 +21,8 @@
   * [Reto 3. Diseñando iconos. ](panel_led/reto_3_disenando_iconos.md)
 * [6 Sensor de temperatura](sensor_de_temperatura/README.md)
   * [Reto 4. Termómetro digital.  ](sensor_de_temperatura/reto_4_termometro_digital.md)
+  * [Reto 5. Aviso de placas de hielo.](reto-5-aviso-de-placas-de-hielo.md)
+  * [Reto 6 Temperatura óptima de una nevera](sensor_de_temperatura/reto-6-temperatura-optima-de-una-nevera.md)
 * [7 Sensor de luminosidad](sensor_de_luminosidad.md)
 * [8 Los LEDs de la placa micro:bit también pueden actuar como entrada haciendo que detecten la luz ambiente.](los_leds_de_la_placa_microbit_tambien_pueden_actua.md)
 * [Pulsadores](pulsadores.md)
