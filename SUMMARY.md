@@ -24,7 +24,7 @@
   * [Reto 5. Aviso de placas de hielo.](reto-5-aviso-de-placas-de-hielo.md)
   * [Reto 6 Temperatura óptima de una nevera](sensor_de_temperatura/reto-6-temperatura-optima-de-una-nevera.md)
 * [7 Sensor de luminosidad](sensor_de_luminosidad.md)
-* [8 Los LEDs de la placa micro:bit también pueden actuar como entrada haciendo que detecten la luz ambiente.](los_leds_de_la_placa_microbit_tambien_pueden_actua.md)
+  * [Reto 7. Interruptor crepuscular](los_leds_de_la_placa_microbit_tambien_pueden_actua.md)
 * [Pulsadores](pulsadores.md)
 * [Acelerómetro](acelerometro.md)
 * [El acelerómetro mide la aceleración de tu micro:bit. Se activa cuando tu placa se mueve y también puede detectar otras acciones como agitar, girar y hasta soltar tu micro:bit en caída libre!](el_acelerometro_mide_la_aceleracion_de_tu_microbit.md)
