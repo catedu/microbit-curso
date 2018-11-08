@@ -36,6 +36,7 @@
   * [Reto 13 Conocer la orientación](la_brujula_detecta_el_campo_magnetico_terrestre_po.md)
   * [Reto 14 Aviso sonoro de Norte](reto-14-aviso-sonoro-de-norte.md)
 * [Radio](radio.md)
+  * [Reto 15 Sensor inalámbrico.](radio/reto-15-sensor-inalambrico.md)
 * [Pines de entrada y salida](pines_de_entrada_y_salida.md)
 * [José Francisco Muñoz Fernández \(Almería, 1968\). Arquitecto superior, desde que cayó en sus manos un ordenador quedó fascinado por esta ciencia digital. La tecnología catalizó su innato espíritu investigador e innovador y le llevó a integrarla en todas las facetas de su vida formativa y laboral. ](jose_francisco_munoz_fernandez_almeria,_1968_arqui/README.md)
   * [Tras años ejerciendo como arquitecto, decide dar más protagonismo a sus otras dos pasiones, la tecnología y la educación, comenzando a ejercer como profesor de robótica. ](jose_francisco_munoz_fernandez_almeria,_1968_arqui/tras_anos_ejerciendo_como_arquitecto,_decide_dar_m.md)
