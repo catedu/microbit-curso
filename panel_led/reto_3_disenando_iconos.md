@@ -8,6 +8,8 @@ Diseñar un icono con forma de [Indalo](https://es.wikipedia.org/wiki/Indalo). S
 
 ![](../images/image46.png)
 
+{% youtube %} https://www.youtube.com/watch?v=ag2ulUyaQqg&feature=youtu.be{% endyoutube %} 
+
 ### Descripción del código. {#descripci-n-del-c-digo}
 
 Se usará el evento al iniciar, situado en la categoría Básico..
