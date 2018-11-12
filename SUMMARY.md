@@ -12,6 +12,7 @@
   * [C\) Cómo descargar un código a la micro:BIT](4-_makecode_primeros_pasos/c_como_descargar_un_codigo_a_la_microbit.md)
   * [D\) Cómo ejecutar el código.](4-_makecode_primeros_pasos/d_como_ejecutar_el_codigo.md)
 
+
 ## Programando la micro:bit
 
 * [PROGRAMANDO LA MICRO:BIT](programando-la-microbit.md)
@@ -40,7 +41,8 @@
 * [12 Pines de entrada y salida](pines_de_entrada_y_salida.md)
   * [Reto 16 ¿Hay continuidad?](pines_de_entrada_y_salida/reto-16-hay-continuidad.md)
 
-## Basic kit. Fuera del curso (de momento...)
+## Basic kit. Fuera del curso \(de momento...\)
+
 * [Basic kit](basic-kit.md)
 * [Reto 17 Movimiento de un servomotor](reto-17-movimiento-de-un-servomotor.md)
 
