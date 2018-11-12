@@ -5,6 +5,7 @@ La animación es una técnica que logra crear sensación de movimiento a imágen
 ### Objetivo. {#objetivo}
 
 Se propone, que al conectar la micro:BIT, se muestre en el panel LED un corazón que late.
+{% youtube %} https://www.youtube.com/watch?v=Cf2ov3A-ICE&feature=youtu.be{% endyoutube %} 
 
 ### Descripción del código. {#descripci-n-del-c-digo}
 
