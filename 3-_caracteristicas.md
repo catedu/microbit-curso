@@ -13,3 +13,6 @@ La micro:BIT incorpora:
 *   **Bluetooth**. Ideal para conectarse e intercambiar datos inalámbricamente con otros dispositivos (móviles, tablets, ordenadores, etc) que dispongan de este tipo de conexión.
 *   **USB**. Usado para descargar los programas a la memoria de la tarjeta y para alimentar eléctricamente la micro:BIT.
 *   **Conector de batería**. Permite suministrar electricidad mediante dos pilas AAA o una batería. La tarjeta carece de interruptor, por lo que cuando se conecta la fuente de alimentación se ejecuta de forma automática el código que haya en memoria.
+
+Puedes ponerle un protector :
+{% youtube %}https://www.youtube.com/watch?v=qGQJnxheZ1s&feature=youtu.be{% endyoutube%}
