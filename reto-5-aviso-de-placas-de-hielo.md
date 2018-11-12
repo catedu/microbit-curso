@@ -6,6 +6,8 @@ La mayoría de coches incorporan en el salpicadero, junto a la pantalla que marc
 
 Mostrar en el panel LED de la micor:BIT un icono con forma de copo de nieve cuando la temperatura esté por debajo de 3 grados.
 
+{% youtube %} https://www.youtube.com/watch?v=T8Ely3YaHhg&feature=youtu.be{% endyoutube %} 
+
 ### Descripción del código. {#descripci-n-del-c-digo-0}
 
 Para iniciar el programa, se propone usar el evento para siempre. Posteriormente se debe añadir el operador lógico si … entonces situado en la sección Lógica. Este bloque verifica si es verdad que se cumple una condición, si es así, ejecuta las instrucciones introducidas.
