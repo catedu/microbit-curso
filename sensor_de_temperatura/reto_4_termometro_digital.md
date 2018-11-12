@@ -8,6 +8,8 @@ Los termómetros digitales son aquellos que, valiéndose de dispositivos [transd
 
 Mostrar en el panel LED la temperatura detectada por el sensor de temperatura integrado en la micro:BIT.
 
+{% youtube %} https://www.youtube.com/watch?v=Avl3wo4Rkww&feature=youtu.be{% endyoutube %} 
+
 ### Descripción del código. {#descripci-n-del-c-digo}
 
 Se propone iniciar el programa usando el evento “para siempre”. Añadir el bloque, localizado en la categoría Básico, mostrar número. Este bloque muestra en la pantalla LED el número introducido, desplazándose si es mayor de 1 cifra.
