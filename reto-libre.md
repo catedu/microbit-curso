@@ -1,6 +1,6 @@
 #Reto libre
 Ahora te retamos a lo siguiente:
-Entra en Makecode https://makecode.microbit.org y **ELIGE UN PROYECTO** EL QUE QUIERAS DE LOS QUE APARECEN
+Entra en Makecode https://makecode.microbit.org y **ELIGE UN PROYECTO** EL QUE QUIERAS DE LOS QUE APARECEN **Y HAZLO**
 
 ![](/assets/RETOLIBRE.jpg)
 
