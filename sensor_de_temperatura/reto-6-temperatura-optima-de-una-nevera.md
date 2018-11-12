@@ -6,6 +6,8 @@ La temperatura óptima de un frigorífico es de 7ºC, mientras que la temperatur
 
 Mostrar en el panel LED de la micro:BIT la temperatura del frigorífico y activar una alarma cuando la temperatura esté por encima de 7ºC
 
+{% youtube %} https://www.youtube.com/watch?v=AJHt2rd805E&feature=youtu.be{% endyoutube %} 
+
 ### Descripción del código. {#descripci-n-del-c-digo-1}
 
 En este reto se incorpora un altavoz como actuador externo. Se conectará uno de los polos al GND y el otro al PIN 0.
