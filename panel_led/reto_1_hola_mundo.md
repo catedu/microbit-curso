@@ -6,6 +6,8 @@ Cuando se aprende a programar, se llama “Hola Mundo” al primer programa que 
 
 Al conectar la micro:BIT, se debe mostrar el texto «¡¡¡Hola Mundo!!!» en el panel LED de la tarjeta.
 
+{% youtube %} https://www.youtube.com/watch?v=eqBcjWYTqNE&feature=youtu.be{% endyoutube %} 
+
 ### Descripción del código. {#descripci-n-del-c-digo}
 
 Se propone usar el evento al iniciar, situado en la categoría Básico. Este bloque permite ejecutar el código introducido, cuando se inicia la micro:BIT
