@@ -41,8 +41,7 @@
 * [12 Pines de entrada y salida](pines_de_entrada_y_salida.md)
   * [Reto 16 ¿Hay continuidad?](pines_de_entrada_y_salida/reto-16-hay-continuidad.md)
 
-## Basic kit. Fuera del curso \(de momento...\)
-
+## Basic kit. Fuera del curso (de momento...)
 * [Basic kit](basic-kit.md)
 * [Reto 17 Movimiento de un servomotor](reto-17-movimiento-de-un-servomotor.md)
 
