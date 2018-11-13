@@ -12,7 +12,6 @@
   * [C\) Cómo descargar un código a la micro:BIT](4-_makecode_primeros_pasos/c_como_descargar_un_codigo_a_la_microbit.md)
   * [D\) Cómo ejecutar el código.](4-_makecode_primeros_pasos/d_como_ejecutar_el_codigo.md)
 
-
 ## Programando la micro:bit
 
 * [PROGRAMANDO LA MICRO:BIT](programando-la-microbit.md)
@@ -36,12 +35,14 @@
 * [10 Brújula](brujula.md)
   * [Reto 13 Conocer la orientación](la_brujula_detecta_el_campo_magnetico_terrestre_po.md)
   * [Reto 14 Aviso sonoro de Norte](reto-14-aviso-sonoro-de-norte.md)
+* [Calibrar la brújula](calibrar-la-brujula.md)
 * [11 Radio](radio.md)
   * [Reto 15 Sensor inalámbrico.](radio/reto-15-sensor-inalambrico.md)
 * [12 Pines de entrada y salida](pines_de_entrada_y_salida.md)
   * [Reto 16 ¿Hay continuidad?](pines_de_entrada_y_salida/reto-16-hay-continuidad.md)
 
-## Basic kit. Fuera del curso (de momento...)
+## Basic kit. Fuera del curso \(de momento...\)
+
 * [Basic kit](basic-kit.md)
 * [Reto 17 Movimiento de un servomotor](reto-17-movimiento-de-un-servomotor.md)
 
