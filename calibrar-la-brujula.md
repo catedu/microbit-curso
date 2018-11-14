@@ -4,7 +4,9 @@ La primera vez que grabamos un programa sale este mensaje por la pantalla:
 
 **Tilt to Fill Screen** _Inclinar para llenar la pantalla_
 
-Luego lo que tenemos que hacer **después** de que aparezca el texto anterior, sale un punto que irá rellenando la pantalla hasta que se llene todo.
+Luego lo que tenemos que hacer **después** de que aparezca el texto anterior, sale un punto que irá rellenando la pantalla a medida que lo vas inclinando. 
+
+Objetivo: que se llene toda la pantalla de leds.
 
 Con un [vídeo](https://www.youtube.com/watch?v=jvK0ql_u5F0) se ve mejor
 
