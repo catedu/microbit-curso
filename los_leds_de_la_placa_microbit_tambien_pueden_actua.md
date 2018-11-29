@@ -6,6 +6,7 @@ Cuando la intensidad de la luz cae por debajo de un nivel de iluminación predet
 
 Crear un programa que mida el nivel luminoso existente, para ello usará el sensor de luz de la micro:BIT. Posteriormente se comprobará si este valor es inferior a 50, si es así, se encenderán todos leds de la placa a su máxima intensidad.
 
+{% youtube %} https://www.youtube.com/watch?v=xZu3Cxfzf0s&feature=youtu.be{% endyoutube %} 
 ### Descripción del código. {#descripci-n-del-c-digo}
 
 Se usará el evento para siempre, para iniciar el programa. Se introducirá la condición si … entonces, si no, para comprobar si se está por encima o por debajo del valor teórico tomado como límite en esta ocasión 50\. Si el valor es inferior a 50, se fijará la intensidad de los LEDs al máximo usando el bloque ajustar brillo 255. Si el valor es superior a 50 se usará el bloque borrar la pantalla para, de esta forma, apagar todos los LEDs.
