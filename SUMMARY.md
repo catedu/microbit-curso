@@ -13,6 +13,7 @@
   * [D\) Cómo ejecutar el código.](4-_makecode_primeros_pasos/d_como_ejecutar_el_codigo.md)
 * [SmartCar](smartcar.md)
   * [Montaje](smartcar/montaje.md)
+  * [Conexión con Makecode](smartcar/conexion-con-makecode.md)
 
 ## Programando la micro:bit
 
