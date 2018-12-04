@@ -14,6 +14,7 @@
 * [SmartCar](smartcar.md)
   * [Montaje](smartcar/montaje.md)
   * [Conexión con Makecode](smartcar/conexion-con-makecode.md)
+  * [Reto 1 Me quedo a 5cm](smartcar/reto-1-me-quedo-a-5cm.md)
 
 ## Programando la micro:bit
 
