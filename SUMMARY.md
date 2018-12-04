@@ -48,6 +48,7 @@
 ## Basic kit. Fuera del curso \(de momento...\)
 
 * [Basic kit](basic-kit.md)
+  * [Bluetooth](basic-kit/bluetooth.md)
 * [Reto 17 Movimiento de un servomotor](reto-17-movimiento-de-un-servomotor.md)
 
 ## Para finalizar...
