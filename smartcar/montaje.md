@@ -2,6 +2,12 @@
 
 El paquete viene con unas piezas listas para montar que no requieren especial destreza DYC, lo único "_difícil_" es que hay que **soldar **los cables a los motores (4 pequeñas soldaduras).
 
+El sensor sigue-lineas y el sensor ultrasonidos se puede poner en cualquier pin, pero en este curso lo fijaremos en:
+
+* Sensor ultrasonidos en el PIN 10
+* Sensor siguelíneas izquierda en el PIN3
+* Sensor siguelíneas derecha en el PIN4
+
 ![](http://robotopia.es/img/cms/smart-car-para-microbit-montaje.jpg)
 
 Con un poco de paciencia se hace muy bien
