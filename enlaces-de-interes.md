@@ -17,4 +17,4 @@ Puedes comprar la tarjeta micro:bit e infinidad de complementos compatibles en:
 http://robotopia.es/
 
 ##Twitter #microbit
-<a class="twitter-timeline" href="https://twitter.com/microbit?ref_src=twsrc%5Etfw">Tweets by microbit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?button_hashtag=microbit&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #microbit</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
