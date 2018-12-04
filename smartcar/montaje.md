@@ -8,7 +8,9 @@ El sensor sigue-lineas y el sensor ultrasonidos se puede poner en cualquier pin,
 * Sensor siguelíneas izquierda en el PIN3
 * Sensor siguelíneas derecha en el PIN4
 
-![](http://robotopia.es/img/cms/smart-car-para-microbit-montaje.jpg)
+![](https://i.imgur.com/kzPngGo.jpg)
+
+![](https://i.imgur.com/yeShOQZ.jpg)
 
 Con un poco de paciencia se hace muy bien
 
