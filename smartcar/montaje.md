@@ -1,6 +1,6 @@
 #Montaje
 
-El paquete viene con unas piezas listas para montar que no requieren especial destreza DYC
+El paquete viene con unas piezas listas para montar que no requieren especial destreza DYC, lo único "_difícil_" es que hay que **soldar **los cables a los motores (4 pequeñas soldaduras).
 
 ![](http://robotopia.es/img/cms/smart-car-para-microbit-montaje.jpg)
 
