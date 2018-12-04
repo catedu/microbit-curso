@@ -7,8 +7,8 @@
             "José Francisco Muñoz Fernández"
         ],
         "collaborators": [
-            { "name": "2018 Javier Quintana Peiró", "edited": "modificaciones respecto al original http://www.microes.org/formacion/manual-programacion-pdf" }
-            { "name": "2019 Javier Quintana Peiró", "edited": "SmartCar" }
+            { "name": "2018 Javier Quintana Peiró", "edited": "modificaciones respecto al original http://www.microes.org/formacion/manual-programacion-pdf" 
+             "name": "2019 Javier Quintana Peiró", "edited": "SmartCar" }
         ]
     },
     "pluginsConfig": {
