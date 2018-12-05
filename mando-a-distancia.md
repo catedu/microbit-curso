@@ -1,9 +1,12 @@
 #Mando a distancia
 Esta vez **vamos a utilizar dos micro:BITs** 
 
-##Descripción del programa
+{% youtube %}https://youtu.be/oxumk9GYoVU{% endyoutube %}
 
+##Descripción del programa
 ###Microbit que hace de mando
+Este microBIT hay que alimentarlo con pilas o utilizando una batería típica de móvil. 
+
 El mando se inicia en un grupo (en este caso el 222) y simplemente realiza lo siguiente:
 * Si se pulsa A manda un 1 y lo visualizo
 * Si se pulsa B manda un 2 y lo visualizo
