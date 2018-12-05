@@ -1,4 +1,4 @@
-#Mando a distancia
+#Rento 5 Mando a distancia
 Esta vez **vamos a utilizar dos micro:BITs** 
 
 {% youtube %}https://youtu.be/oxumk9GYoVU{% endyoutube %}
