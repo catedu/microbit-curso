@@ -11,10 +11,7 @@
   * [B\) Cómo crear un programa con MakeCode](4-_makecode_primeros_pasos/b_como_crear_un_programa_con_makecode.md)
   * [C\) Cómo descargar un código a la micro:BIT](4-_makecode_primeros_pasos/c_como_descargar_un_codigo_a_la_microbit.md)
   * [D\) Cómo ejecutar el código.](4-_makecode_primeros_pasos/d_como_ejecutar_el_codigo.md)
-* [SmartCar](smartcar.md)
-  * [Montaje](smartcar/montaje.md)
-  * [Conexión con Makecode](smartcar/conexion-con-makecode.md)
-  * [Reto 1 Me quedo a 5cm](smartcar/reto-1-me-quedo-a-5cm.md)
+
 
 ## Programando la micro:bit
 
@@ -44,6 +41,14 @@
   * [Reto 15 Sensor inalámbrico.](radio/reto-15-sensor-inalambrico.md)
 * [12 Pines de entrada y salida](pines_de_entrada_y_salida.md)
   * [Reto 16 ¿Hay continuidad?](pines_de_entrada_y_salida/reto-16-hay-continuidad.md)
+
+## SmartCar CURSO MICROBIT Y SMARTCAR
+* [SmartCar](smartcar.md)
+  * [Montaje](smartcar/montaje.md)
+  * [Conexión con Makecode](smartcar/conexion-con-makecode.md)
+  
+  * [Reto  Me quedo a 5cm](smartcar/reto-1-me-quedo-a-5cm.md)
+
 
 ## Basic kit. Fuera del curso \(de momento...\)
 
