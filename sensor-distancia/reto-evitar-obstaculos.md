@@ -1,4 +1,4 @@
-#Reto evitar obstáculos
+#Reto 3 Evitar obstáculos
 
 ¿Cómo no? lo pide a gritos ! vamos a hacer un [roomba](https://catedu.gitbooks.io/robotica-educativa-con-mbot/content/evitar_obstculos.html)
 
