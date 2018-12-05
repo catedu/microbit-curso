@@ -13,6 +13,7 @@
   * [D\) Cómo ejecutar el código.](4-_makecode_primeros_pasos/d_como_ejecutar_el_codigo.md)
 * [Sensor distancia](sensor-distancia.md)
   * [Reto evitar obstáculos](sensor-distancia/reto-evitar-obstaculos.md)
+* [Sigue-lineas](sigue-lineas.md)
 
 ## Programando la micro:bit
 
