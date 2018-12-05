@@ -15,6 +15,7 @@
   * [Reto evitar obstáculos](sensor-distancia/reto-evitar-obstaculos.md)
 * [Sigue-lineas](sigue-lineas.md)
   * [Seguir línea](sigue-lineas/seguir-linea.md)
+* [Mando a distancia](mando-a-distancia.md)
 
 ## Programando la micro:bit
 
