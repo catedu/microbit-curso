@@ -8,7 +8,7 @@ Se propone crear un dado electrónico que, usando el panel LED, muestre el resul
 
 Tras agitar la micro:BIT, se deberá calcular un número aleatorio cuyo valor esté entre 1 y 6\. Posteriormente, se mostrará en el panel LED el valor obtenido.
 
-Pruébalo ¡¡lo puedes sacudir!! este simulador es genial !!
+Pruébalo ¡¡lo puedes sacudir pulsando en *Shake*!! este simulador es genial !!
 <div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_A1Tcyy1zLRgP" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 ### Descripción del código. {#descripci-n-del-c-digo}
