@@ -4,6 +4,8 @@ Otro reto que pide a gritos este sensor:
 
 {% youtube %}https://www.youtube.com/watch?v=cY6nqgHxXio{% endyoutube %}
 
+>Consejo: en clase, antes de atacar con este reto, aconsejamos otro más sencillo como que el robot se mueva y si encuentra línea que se pare, este reto lo puedes ver [aquí](https://www.elecfreaks.com/learn-en/motor_bit_smart_car_case_01/)
+
 #Descripción del programa
 
 Al empezar configuraremos los sensores en PULL-UP tal y [como hemos explicado](/sigue-lineas.md):
