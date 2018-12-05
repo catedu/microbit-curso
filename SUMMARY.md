@@ -42,7 +42,7 @@
   * [Reto 16 ¿Hay continuidad?](pines_de_entrada_y_salida/reto-16-hay-continuidad.md)
   * [Reto 17 Música](pines_de_entrada_y_salida/reto-17-musica.md)
 
-## SmartCar
+## SmartCar. Dentro del curso Microbit+SmartCar
 
 * [SmartCar](smartcar.md)
   * [Montaje](smartcar/montaje.md)
