@@ -22,6 +22,11 @@ El código quedará de la siguiente manera.
 
 De forma inmediata comenzará a leerse en el panel LED la cadena de texto introducida. El texto no cabe en su totalidad por lo que este se desplazará de forma automática.
 
+###Simulador
+Lo bueno que tiene el editor es que permite compartirlo y embeberlo en una página web. Aquí tienes el resultado de embeber el anterior código:
+
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_3bPEot71XXJA" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+
 ### Propuesta. {#propuesta}
 
 Modificar el código, para que se muestre el nombre del programador.
