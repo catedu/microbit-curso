@@ -48,14 +48,12 @@
   * [Montaje](smartcar/montaje.md)
   * [Conexión con Makecode](smartcar/conexion-con-makecode.md)
 * [Reto 1 Musica](smartcar/reto-musica.md)
-* [Sensor distancia](sensor-distancia.md)  
+* [Sensor distancia](sensor-distancia.md)
   * [Reto 2 Me quedo a 5cm](smartcar/reto-1-me-quedo-a-5cm.md)
   * [Reto 3 Evitar obstáculos](sensor-distancia/reto-evitar-obstaculos.md)
 * [Sigue-lineas](sigue-lineas.md)
   * [Reto 4 Seguir línea](sigue-lineas/seguir-linea.md)
 * [Reto 5 Mando a distancia](mando-a-distancia.md)
-
-
 
 ## Basic kit. Fuera del curso \(de momento...\)
 
@@ -69,6 +67,6 @@
 * [Grupo Robotica Educativa](grupo-robotica-educativa.md)
 * [Pensamiento computacional](pensamiento-computacional.md)
 * [Enlaces de interés](enlaces-de-interes.md)
-* [Sobre el autor](disponible_para_su_compra_en_httpswwwmakeblockespr.md)
+* [Sobre Jose Fco Muñoz F.](disponible_para_su_compra_en_httpswwwmakeblockespr.md)
 * [Créditos](creditos.md)
 
