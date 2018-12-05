@@ -52,6 +52,7 @@
   * [Montaje](smartcar/montaje.md)
   * [Conexión con Makecode](smartcar/conexion-con-makecode.md)
   * [Reto  Me quedo a 5cm](smartcar/reto-1-me-quedo-a-5cm.md)
+  * [Reto Musica](smartcar/reto-musica.md)
 
 ## Basic kit. Fuera del curso \(de momento...\)
 
