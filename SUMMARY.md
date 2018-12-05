@@ -41,6 +41,7 @@
   * [Reto 15 Sensor inalámbrico.](radio/reto-15-sensor-inalambrico.md)
 * [12 Pines de entrada y salida](pines_de_entrada_y_salida.md)
   * [Reto 16 ¿Hay continuidad?](pines_de_entrada_y_salida/reto-16-hay-continuidad.md)
+  * [Reto 17 Música](pines_de_entrada_y_salida/reto-17-musica.md)
 
 ## SmartCar CURSO MICROBIT Y SMARTCAR
 
