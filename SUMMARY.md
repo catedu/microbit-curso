@@ -11,11 +11,6 @@
   * [B\) Cómo crear un programa con MakeCode](4-_makecode_primeros_pasos/b_como_crear_un_programa_con_makecode.md)
   * [C\) Cómo descargar un código a la micro:BIT](4-_makecode_primeros_pasos/c_como_descargar_un_codigo_a_la_microbit.md)
   * [D\) Cómo ejecutar el código.](4-_makecode_primeros_pasos/d_como_ejecutar_el_codigo.md)
-* [Sensor distancia](sensor-distancia.md)
-  * [Reto evitar obstáculos](sensor-distancia/reto-evitar-obstaculos.md)
-* [Sigue-lineas](sigue-lineas.md)
-  * [Seguir línea](sigue-lineas/seguir-linea.md)
-* [Mando a distancia](mando-a-distancia.md)
 
 ## Programando la micro:bit
 
@@ -52,8 +47,15 @@
 * [SmartCar](smartcar.md)
   * [Montaje](smartcar/montaje.md)
   * [Conexión con Makecode](smartcar/conexion-con-makecode.md)
-  * [Reto  Me quedo a 5cm](smartcar/reto-1-me-quedo-a-5cm.md)
-  * [Reto Musica](smartcar/reto-musica.md)
+* [Reto 1 Musica](smartcar/reto-musica.md)
+* [Sensor distancia](sensor-distancia.md)  
+  * [Reto 2 Me quedo a 5cm](smartcar/reto-1-me-quedo-a-5cm.md)
+  * [Reto 3 Evitar obstáculos](sensor-distancia/reto-evitar-obstaculos.md)
+* [Sigue-lineas](sigue-lineas.md)
+  * [Reto 4 Seguir línea](sigue-lineas/seguir-linea.md)
+* [Reto 5 Mando a distancia](mando-a-distancia.md)
+
+
 
 ## Basic kit. Fuera del curso \(de momento...\)
 
