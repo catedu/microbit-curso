@@ -44,7 +44,8 @@
   * [Reto 18 libre](reto-libre.md)
 
 
-/* ## SmartCar. Dentro del curso Microbit+SmartCar
+<---
+ ## SmartCar. Dentro del curso Microbit+SmartCar
 
 * [SmartCar](smartcar.md)
   * [Montaje](smartcar/montaje.md)
@@ -62,7 +63,7 @@
 * [Basic kit](basic-kit.md)
 * [Reto 1 Movimiento de un servomotor](reto-17-movimiento-de-un-servomotor.md)
 
-*/
+-->
 
 ## Para finalizar...
 
