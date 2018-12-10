@@ -41,8 +41,10 @@
 * [12 Pines de entrada y salida](pines_de_entrada_y_salida.md)
   * [Reto 16 ¿Hay continuidad?](pines_de_entrada_y_salida/reto-16-hay-continuidad.md)
   * [Reto 17 Música](pines_de_entrada_y_salida/reto-17-musica.md)
+  * [Reto 18 libre](reto-libre.md)
 
-## SmartCar. Dentro del curso Microbit+SmartCar
+
+/* ## SmartCar. Dentro del curso Microbit+SmartCar
 
 * [SmartCar](smartcar.md)
   * [Montaje](smartcar/montaje.md)
@@ -58,11 +60,11 @@
 ## Basic kit. Fuera del curso \(de momento...\)
 
 * [Basic kit](basic-kit.md)
-* [Reto 1 Movimiento de un servomotor](reto-17-movimiento-de-un-servomotor.md)
+* [Reto 1 Movimiento de un servomotor](reto-17-movimiento-de-un-servomotor.md)*/
 
 ## Para finalizar...
 
-* [Reto libre](reto-libre.md)
+
 * [Muro micro:BIT](muro-microbit.md)
 * [Grupo Robotica Educativa](grupo-robotica-educativa.md)
 * [Pensamiento computacional](pensamiento-computacional.md)
