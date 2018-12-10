@@ -4,10 +4,10 @@
     "variables": {
         "title": "Micro:bit",
         "authors": [
-            "José Francisco Muñoz Fernández & Javier Quintana"
+            "José Francisco Muñoz Fernández"
         ],
         "collaborators": [
-            { "name": "2019 Javier Quintana Peiró", "edited": "smartCar y modificaciones respecto al original http://www.microes.org/formacion/manual-programacion-pdf" 9}
+            { "name": "2019 Javier Quintana Peiró", "edited": "Modificaciones respecto al original http://www.microes.org/formacion/manual-programacion-pdf" 9}
         ]
     },
     "pluginsConfig": {
