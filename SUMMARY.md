@@ -72,6 +72,6 @@
 * [Grupo Robotica Educativa](grupo-robotica-educativa.md)
 * [Pensamiento computacional](pensamiento-computacional.md)
 * [Enlaces de interés](enlaces-de-interes.md)
-* [Sobre Jose Fco Muñoz F.](disponible_para_su_compra_en_httpswwwmakeblockespr.md)
+* [Sobre el autor](disponible_para_su_compra_en_httpswwwmakeblockespr.md)
 * [Créditos](creditos.md)
 
