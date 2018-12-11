@@ -11,7 +11,6 @@
   * [B\) Cómo crear un programa con MakeCode](4-_makecode_primeros_pasos/b_como_crear_un_programa_con_makecode.md)
   * [C\) Cómo descargar un código a la micro:BIT](4-_makecode_primeros_pasos/c_como_descargar_un_codigo_a_la_microbit.md)
   * [D\) Cómo ejecutar el código.](4-_makecode_primeros_pasos/d_como_ejecutar_el_codigo.md)
-* [¿El curso continúa?](el-curso-continua.md)
 
 ## Programando la micro:bit
 
@@ -44,6 +43,9 @@
   * [Reto 17 Música](pines_de_entrada_y_salida/reto-17-musica.md)
   * [Reto 18 libre](reto-libre.md)
 
+<!--
+
+=====================================================
 ## SmartCar. Dentro del curso Microbit+SmartCar
 
 * [SmartCar](smartcar.md)
@@ -61,13 +63,14 @@
 
 * [Basic kit](basic-kit.md)
 * [Reto 1 Movimiento de un servomotor](reto-17-movimiento-de-un-servomotor.md)
-
+====================================================
+-->
 ## Para finalizar...
-
 * [Muro micro:BIT](muro-microbit.md)
 * [Grupo Robotica Educativa](grupo-robotica-educativa.md)
 * [Pensamiento computacional](pensamiento-computacional.md)
 * [Enlaces de interés](enlaces-de-interes.md)
 * [Sobre el autor](disponible_para_su_compra_en_httpswwwmakeblockespr.md)
+* [¿El curso continúa?](el-curso-continua.md)
 * [Créditos](creditos.md)
 
