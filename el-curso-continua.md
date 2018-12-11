@@ -2,7 +2,7 @@
 
 Micro:BIT tiene muchas extensiones que permiten extender este curso, y por lo tanto son cursos totalmente nuevos:
 
-##Curso Mircro:BIT y MicroCar
+##Curso Micro:BIT y MicroCar
 
 **Contenidos del curso **: https://catedu.gitbooks.io/smartcar-micro-bit/content/
 
