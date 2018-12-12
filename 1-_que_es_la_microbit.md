@@ -2,7 +2,7 @@
 
 La micro:BIT es una pequeña tarjeta programable, con un costo asequible a cualquier bolsillo. Aun cuando su tamaño es muy reducido, incorpora gran cantidad de sensores y actuadores lo que unido a que usa un software Open Source, hacen de la micro:BIT una plataforma ideal para introducirse en el mundo de la programación de robots.
 
-#1.2 Kit de préstamo CATEDU
+#1.1 Kit de préstamo CATEDU
 Si te matriculas en nuestros cursos, tienes derecho a un kit de préstamo ([ver condiciones](https://catedu.gitbooks.io/robotica/content/chapter1.html))
 
 Pero para este curso sería conveniente conseguir **otro micro:BIT** para hacer el reto **[SENSOR INALÁMBRICO](/radio/reto-15-sensor-inalambrico.md)** (puedes matricularte tú en el curso micro:CAR y así tienes otro micro:BIT o intentar hacer el curso con otro compañero)
