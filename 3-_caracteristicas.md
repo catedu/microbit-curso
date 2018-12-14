@@ -20,3 +20,7 @@ La micro:BIT incorpora:
 Puedes ponerle un protector :
 
 {% youtube %}https://www.youtube.com/watch?v=qGQJnxheZ1s&feature=youtu.be{% endyoutube%}
+
+Y puedes poner un portapilas, incluso un protector, los hay baratos en Aliexpress (pon las palabras de búsqueda: _support batterie aaa microbit_ )
+
+![](/assets/sorpote.jpg)
