@@ -8,6 +8,8 @@ Para la conexión se puede utilizar unas pinzas de cocodrilo ([ver conexión](ht
 
 ![](/assets/2018-12-05 11_11_35-Microsoft MakeCode for micro_bit.jpg)
 
+{%youtube%}https://youtu.be/Di6b-SMuC-g{%endyoutube%}
+
 Si no se tienen pinzas de cocodrilo, haciendo un poco DYC (lease *mañoso*) con papel de aluminio y celo ([ver cómo se hace](https://makecode.microbit.org/device/foil-circuits))
 
 ## Descripción del código
