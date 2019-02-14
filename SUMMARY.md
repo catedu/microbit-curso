@@ -43,9 +43,10 @@
   * [Reto 17 Música](pines_de_entrada_y_salida/reto-17-musica.md)
   * [Reto 18 libre](reto-libre.md)
 
+<!--
 
-<---
- ## SmartCar. Dentro del curso Microbit+SmartCar
+=====================================================
+## SmartCar. Dentro del curso Microbit+SmartCar
 
 * [SmartCar](smartcar.md)
   * [Montaje](smartcar/montaje.md)
@@ -62,16 +63,14 @@
 
 * [Basic kit](basic-kit.md)
 * [Reto 1 Movimiento de un servomotor](reto-17-movimiento-de-un-servomotor.md)
-
+====================================================
 -->
-
 ## Para finalizar...
-
-
 * [Muro micro:BIT](muro-microbit.md)
 * [Grupo Robotica Educativa](grupo-robotica-educativa.md)
 * [Pensamiento computacional](pensamiento-computacional.md)
 * [Enlaces de interés](enlaces-de-interes.md)
 * [Sobre el autor](disponible_para_su_compra_en_httpswwwmakeblockespr.md)
+* [¿El curso continúa?](el-curso-continua.md)
 * [Créditos](creditos.md)
 

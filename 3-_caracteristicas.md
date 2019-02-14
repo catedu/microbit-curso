@@ -14,5 +14,13 @@ La micro:BIT incorpora:
 *   **USB**. Usado para descargar los programas a la memoria de la tarjeta y para alimentar eléctricamente la micro:BIT.
 *   **Conector de batería**. Permite suministrar electricidad mediante dos pilas AAA o una batería. La tarjeta carece de interruptor, por lo que cuando se conecta la fuente de alimentación se ejecuta de forma automática el código que haya en memoria.
 
+[Guia de accesorios](https://microbit.org/assets/documents/AccessoryGuide.pdf) que se le pueden añadir
+(En CATEDU hemos creado [el curso de MicroCar](https://catedu.gitbooks.io/smartcar-micro-bit/content/))
+
 Puedes ponerle un protector :
+
 {% youtube %}https://www.youtube.com/watch?v=qGQJnxheZ1s&feature=youtu.be{% endyoutube%}
+
+Y puedes poner un portapilas, incluso un protector, los hay baratos en Aliexpress (pon las palabras de búsqueda: _support batterie aaa microbit_ )
+
+![](/assets/sorpote.jpg)
