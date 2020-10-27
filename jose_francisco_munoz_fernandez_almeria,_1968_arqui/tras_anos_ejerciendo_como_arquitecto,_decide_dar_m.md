@@ -1,0 +1,1 @@
+##  {#tras-a-os-ejerciendo-como-arquitecto-decide-dar-m-s-protagonismo-a-sus-otras-dos-pasiones-la-tecnolog-a-y-la-educaci-n-comenzando-a-ejercer-como-profesor-de-rob-tica}

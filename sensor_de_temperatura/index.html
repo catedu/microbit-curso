@@ -1,0 +1,895 @@
+
+<!DOCTYPE HTML>
+<html lang="es" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>6 Sensor de temperatura · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-accordion/accordion.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-styled-blockquotes/plugin-styled-blockquotes.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-githubcontributors/style.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="reto_4_termometro_digital.html" />
+    
+    
+    <link rel="prev" href="../panel_led/reto_3_disenando_iconos.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Escribe para buscar" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        <li class="header">Introducción</li>
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../1-_que_es_la_microbit.html">
+            
+                <a href="../1-_que_es_la_microbit.html">
+            
+                    
+                    1.- ¿Que es la micro:BIT?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../2-_como_se_programa_la_microbit.html">
+            
+                <a href="../2-_como_se_programa_la_microbit.html">
+            
+                    
+                    2.- ¿Cómo se programa la micro:BIT?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../3-_caracteristicas.html">
+            
+                <a href="../3-_caracteristicas.html">
+            
+                    
+                    3.- Características.
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../4-_makecode_primeros_pasos/">
+            
+                <a href="../4-_makecode_primeros_pasos/">
+            
+                    
+                    4.- MakeCode. Primeros pasos.
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1" data-path="../4-_makecode_primeros_pasos/a_descripcion_general.html">
+            
+                <a href="../4-_makecode_primeros_pasos/a_descripcion_general.html">
+            
+                    
+                    A) Descripción General
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.2" data-path="../4-_makecode_primeros_pasos/b_como_crear_un_programa_con_makecode.html">
+            
+                <a href="../4-_makecode_primeros_pasos/b_como_crear_un_programa_con_makecode.html">
+            
+                    
+                    B) Cómo crear un programa con MakeCode
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.3" data-path="../4-_makecode_primeros_pasos/c_como_descargar_un_codigo_a_la_microbit.html">
+            
+                <a href="../4-_makecode_primeros_pasos/c_como_descargar_un_codigo_a_la_microbit.html">
+            
+                    
+                    C) Cómo descargar un código a la micro:BIT
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.4" data-path="../4-_makecode_primeros_pasos/d_como_ejecutar_el_codigo.html">
+            
+                <a href="../4-_makecode_primeros_pasos/d_como_ejecutar_el_codigo.html">
+            
+                    
+                    D) Cómo ejecutar el código.
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Programando la micro:bit</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="../programando-la-microbit.html">
+            
+                <a href="../programando-la-microbit.html">
+            
+                    
+                    PROGRAMANDO LA MICRO:BIT
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2" data-path="../panel_led/">
+            
+                <a href="../panel_led/">
+            
+                    
+                    5 Panel LED
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.2.1" data-path="../panel_led/reto_1_hola_mundo.html">
+            
+                <a href="../panel_led/reto_1_hola_mundo.html">
+            
+                    
+                    Reto 1. Hola Mundo. 
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2.2" data-path="../panel_led/reto_2_animando_los_iconos.html">
+            
+                <a href="../panel_led/reto_2_animando_los_iconos.html">
+            
+                    
+                    Reto 2. Animando los iconos. 
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2.3" data-path="../panel_led/reto_3_disenando_iconos.html">
+            
+                <a href="../panel_led/reto_3_disenando_iconos.html">
+            
+                    
+                    Reto 3. Diseñando iconos. 
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter active" data-level="2.3" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    6 Sensor de temperatura
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.3.1" data-path="reto_4_termometro_digital.html">
+            
+                <a href="reto_4_termometro_digital.html">
+            
+                    
+                    Reto 4. Termómetro digital.  
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3.2" data-path="../reto-5-aviso-de-placas-de-hielo.html">
+            
+                <a href="../reto-5-aviso-de-placas-de-hielo.html">
+            
+                    
+                    Reto 5. Aviso de placas de hielo.
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3.3" data-path="reto-6-temperatura-optima-de-una-nevera.html">
+            
+                <a href="reto-6-temperatura-optima-de-una-nevera.html">
+            
+                    
+                    Reto 6 Temperatura óptima de una nevera
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.4" data-path="../sensor_de_luminosidad.html">
+            
+                <a href="../sensor_de_luminosidad.html">
+            
+                    
+                    7 Sensor de luminosidad
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.4.1" data-path="../los_leds_de_la_placa_microbit_tambien_pueden_actua.html">
+            
+                <a href="../los_leds_de_la_placa_microbit_tambien_pueden_actua.html">
+            
+                    
+                    Reto 7. Interruptor crepuscular
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5" data-path="../pulsadores.html">
+            
+                <a href="../pulsadores.html">
+            
+                    
+                    8 Pulsadores
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.5.1" data-path="../pulsadores/reto-8-que-boton-has-pulsado.html">
+            
+                <a href="../pulsadores/reto-8-que-boton-has-pulsado.html">
+            
+                    
+                    Reto 8 ¿Qué botón has pulsado?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5.2" data-path="../reto-9-medir-la-intensidad-de-la-luz-ambiente.html">
+            
+                <a href="../reto-9-medir-la-intensidad-de-la-luz-ambiente.html">
+            
+                    
+                    Reto 9 Medir la intensidad de la luz ambiente
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5.3" data-path="../pulsadores/reto-10-modificar-el-brillo-de-los-leds.html">
+            
+                <a href="../pulsadores/reto-10-modificar-el-brillo-de-los-leds.html">
+            
+                    
+                    Reto 10 Modificar el brillo de los LEDs
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.6" data-path="../acelerometro.html">
+            
+                <a href="../acelerometro.html">
+            
+                    
+                    9 Acelerómetro
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.6.1" data-path="../el_acelerometro_mide_la_aceleracion_de_tu_microbit.html">
+            
+                <a href="../el_acelerometro_mide_la_aceleracion_de_tu_microbit.html">
+            
+                    
+                    Reto 11 Dado electrónico.
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.6.2" data-path="../reto-12-cara-o-cruz.html">
+            
+                <a href="../reto-12-cara-o-cruz.html">
+            
+                    
+                    Reto 12 Cara o cruz
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.7" data-path="../brujula.html">
+            
+                <a href="../brujula.html">
+            
+                    
+                    10 Brújula
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.7.1" data-path="../calibrar-la-brujula.html">
+            
+                <a href="../calibrar-la-brujula.html">
+            
+                    
+                    Calibrar la brújula
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.7.2" data-path="../la_brujula_detecta_el_campo_magnetico_terrestre_po.html">
+            
+                <a href="../la_brujula_detecta_el_campo_magnetico_terrestre_po.html">
+            
+                    
+                    Reto 13 Conocer la orientación
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.7.3" data-path="../reto-14-aviso-sonoro-de-norte.html">
+            
+                <a href="../reto-14-aviso-sonoro-de-norte.html">
+            
+                    
+                    Reto 14 Aviso sonoro de Norte
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.8" data-path="../radio.html">
+            
+                <a href="../radio.html">
+            
+                    
+                    11 Radio
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.8.1" data-path="../radio/reto-15-sensor-inalambrico.html">
+            
+                <a href="../radio/reto-15-sensor-inalambrico.html">
+            
+                    
+                    Reto 15 Sensor inalámbrico.
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2.9" data-path="../pines_de_entrada_y_salida.html">
+            
+                <a href="../pines_de_entrada_y_salida.html">
+            
+                    
+                    12 Pines de entrada y salida
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.9.1" data-path="../pines_de_entrada_y_salida/reto-16-hay-continuidad.html">
+            
+                <a href="../pines_de_entrada_y_salida/reto-16-hay-continuidad.html">
+            
+                    
+                    Reto 16 ¿Hay continuidad?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.9.2" data-path="../pines_de_entrada_y_salida/reto-17-musica.html">
+            
+                <a href="../pines_de_entrada_y_salida/reto-17-musica.html">
+            
+                    
+                    Reto 17 Música
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.9.3" data-path="../reto-libre.html">
+            
+                <a href="../reto-libre.html">
+            
+                    
+                    Reto 18 libre
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Para finalizar...</li>
+        
+        
+    
+        <li class="chapter " data-level="3.1" data-path="../muro-microbit.html">
+            
+                <a href="../muro-microbit.html">
+            
+                    
+                    Muro micro:BIT
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.2" data-path="../grupo-robotica-educativa.html">
+            
+                <a href="../grupo-robotica-educativa.html">
+            
+                    
+                    Grupo Robotica Educativa
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3" data-path="../pensamiento-computacional.html">
+            
+                <a href="../pensamiento-computacional.html">
+            
+                    
+                    Pensamiento computacional
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.4" data-path="../enlaces-de-interes.html">
+            
+                <a href="../enlaces-de-interes.html">
+            
+                    
+                    Enlaces de interés
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.5" data-path="../disponible_para_su_compra_en_httpswwwmakeblockespr.html">
+            
+                <a href="../disponible_para_su_compra_en_httpswwwmakeblockespr.html">
+            
+                    
+                    Sobre el autor
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.6" data-path="../el-curso-continua.html">
+            
+                <a href="../el-curso-continua.html">
+            
+                    
+                    ¿El curso continúa?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.7" data-path="../creditos.html">
+            
+                <a href="../creditos.html">
+            
+                    
+                    Créditos
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Publicado con GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >6 Sensor de temperatura</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="sensor-de-temperatura">Sensor de temperatura </h1>
+<p>El sensor de temperatura integrado en la placa detecta la temperatura ambiente en grados Celsius.</p>
+<p><a title="By Celsius_kelvin_estandar_1954.png: Homo logos
+derivative work: kismalac (Celsius_kelvin_estandar_1954.png) [CC BY-SA 3.0 
+ (https://creativecommons.org/licenses/by-sa/3.0
+) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CelsiusKelvin.svg" target="_blank"><img width="256" alt="CelsiusKelvin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/CelsiusKelvin.svg/256px-CelsiusKelvin.svg.png"></a></p>
+<p>By Celsius_kelvin_estandar_1954.png: Homo logosderivative work: kismalac (Celsius_kelvin_estandar_1954.png) [<a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank">CC BY-SA 3.0 </a> or <a href="http://www.gnu.org/copyleft/fdl.html" target="_blank">GFDL</a>], <a href="https://commons.wikimedia.org/wiki/File:CelsiusKelvin.svg" target="_blank">via Wikimedia Commons</a>
+<div id="page-footer" class="localized-footer"><hr><p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a><br><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Micro:bit</span> por <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Jos&#xE9; Francisco Mu&#xF1;oz Fern&#xE1;ndez y </span> bajo licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License</a>.</p>
+</div></p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="../panel_led/reto_3_disenando_iconos.html" class="navigation navigation-prev " aria-label="Previous page: Reto 3. Diseñando iconos. ">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="reto_4_termometro_digital.html" class="navigation navigation-next " aria-label="Next page: Reto 4. Termómetro digital.  ">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"6 Sensor de temperatura","level":"2.3","depth":1,"next":{"title":"Reto 4. Termómetro digital.  ","level":"2.3.1","depth":2,"path":"sensor_de_temperatura/reto_4_termometro_digital.md","ref":"sensor_de_temperatura/reto_4_termometro_digital.md","articles":[]},"previous":{"title":"Reto 3. Diseñando iconos. ","level":"2.2.3","depth":2,"path":"panel_led/reto_3_disenando_iconos.md","ref":"panel_led/reto_3_disenando_iconos.md","articles":[]},"dir":"ltr"},"config":{"plugins":["youtube","accordion","styled-blockquotes","localized-footer","edit-link","githubcontributors","ga"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"accordion":{},"search":{},"styled-blockquotes":{},"localized-footer":{"filename":"./FOOTER.md","hline":true},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-135691041-2"},"githubcontributors":{"contributorWidth":"300px","githubOwner":"catedu","githubRepository":"microbit-curso"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edita esta página","base":"https://github.com/catedu/microbit-curso/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"title":"Micro:bit","authors":["José Francisco Muñoz Fernández"],"collaborators":[{"name":"2019 Javier Quintana Peiró","edited":"Modificaciones respecto al original http://www.microes.org/formacion/manual-programacion-pdf"}]},"language":"es","gitbook":"*"},"file":{"path":"sensor_de_temperatura/README.md","mtime":"2020-10-27T12:17:02.348Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-10-27T12:17:47.197Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-accordion/accordionSelector.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-edit-link/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-githubcontributors/contributors.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-ga/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
