@@ -15,7 +15,7 @@ La micro:BIT incorpora:
 *   **Conector de batería**. Permite suministrar electricidad mediante dos pilas AAA o una batería. La tarjeta carece de interruptor, por lo que cuando se conecta la fuente de alimentación se ejecuta de forma automática el código que haya en memoria.
 
 [Guia de accesorios](https://microbit.org/assets/documents/AccessoryGuide.pdf) que se le pueden añadir
-(En CATEDU hemos creado [el curso de MicroCar](https://catedu.gitbooks.io/smartcar-micro-bit/content/))
+(En CATEDU hemos creado [el curso de MicroCar](https://catedu.github.io/smartcar-micro-bit/))
 
 Puedes ponerle un protector :
 
